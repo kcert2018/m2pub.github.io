@@ -2,6 +2,10 @@
 *~
 *.sw[p_]
 
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
 # Ruby Gem
 *.gem
 .bundle
