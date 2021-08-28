@@ -1,1 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="http://0.0.0.0:5000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:5000/" rel="alternate" type="text/html" /><updated>2021-08-28T17:18:28+09:00</updated><id>http://0.0.0.0:5000/feed.xml</id><title type="html">M2</title><subtitle>An amazing website.</subtitle><author><name>M2 - 기술 블로그</name></author></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="http://0.0.0.0:5000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:5000/" rel="alternate" type="text/html" /><updated>2021-08-29T07:38:29+09:00</updated><id>http://0.0.0.0:5000/feed.xml</id><title type="html">M2</title><subtitle>An amazing website.</subtitle><author><name>M2 - 기술 블로그</name></author><entry><title type="html">첫번째 글!</title><link href="http://0.0.0.0:5000/%EC%B2%AB%EB%B2%88%EC%A7%B8-%EA%B8%B0%EB%A1%9D/" rel="alternate" type="text/html" title="첫번째 글!" /><published>2021-08-28T00:00:00+09:00</published><updated>2021-08-28T00:00:00+09:00</updated><id>http://0.0.0.0:5000/%EC%B2%AB%EB%B2%88%EC%A7%B8-%EA%B8%B0%EB%A1%9D</id><content type="html" xml:base="http://0.0.0.0:5000/%EC%B2%AB%EB%B2%88%EC%A7%B8-%EA%B8%B0%EB%A1%9D/">&lt;p&gt;&lt;strong&gt;이야~&lt;/strong&gt;, 글 첨 써 보네.&lt;/p&gt;
+
+&lt;p&gt;워치 옵션까지 적당히 잘 동작하는데…&lt;/p&gt;
+
+&lt;p&gt;아래 글 괜찮다.&lt;/p&gt;
+
+&lt;h3 id=&quot;httpsdevinlifecomhowto&quot;&gt;https://devinlife.com/howto/&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://devinlife.com/howto/&quot;&gt;GitHub Pages 블로그 따라하기&lt;/a&gt;&lt;/p&gt;</content><author><name>M2 - 기술 블로그</name></author><summary type="html">이야~, 글 첨 써 보네.</summary></entry></feed>
