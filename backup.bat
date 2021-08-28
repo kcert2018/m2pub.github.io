@@ -3,4 +3,4 @@ echo "github backup"
 
 git add --all
 git commit -am "backup"
-git push origin master
+git push origin main

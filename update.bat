@@ -1,3 +1,3 @@
 #!/bin/bash
 echo "git update"
-git pull origin master
+git pull origin main
