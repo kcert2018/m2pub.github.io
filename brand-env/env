@@ -1,0 +1,24 @@
+export BRAND_name=m2
+export BRAND_Name=M2
+export BRAND_NAME=M2
+
+export URL_BASE="https://m2.falinux.com"
+
+export BASE_PASSWORD=ehsqjfwk9414$
+
+export JWT_SECRET=clftlqwhxhzms 
+export JWT_EXPIRATION_MINUTES=120
+export JWT_REFRESH_DAYS=14
+
+export DOCKER_REPO_HOST_M2="m2.docker.kcert2018.com"
+export DOCKER_REPO_HOST_WWD="wwd.docker.kcert2018.com"
+export DOCKER_REPO_USER="rancher"
+export DOCKER_REPO_PASSWORD="ehsqjfwk9414$"
+
+# --------------------
+
+export brand_name=m2
+export brand_Name=M2
+export brand_NAME=M2
+
+
